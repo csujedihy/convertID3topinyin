@@ -1,5 +1,5 @@
 # convertID3topinyin
-Convert mp3's id3 info to pinyin because my ford escape cannot display chinese
+Convert mp3's id3 info to pinyin because my car (2010 ford escape) cannot display chinese on its screen.
 
 ## Install:
 1. pip install pinyin
